@@ -1,4 +1,3 @@
-````markdown
 # Application de gestion d'un établissement de formation
 
 ## Présentation
